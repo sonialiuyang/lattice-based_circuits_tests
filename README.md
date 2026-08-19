@@ -1,5 +1,7 @@
 # A Novel Cost-Effective Layout-Aware Quantum Circuit Synthesis of Symmetric Functions On Triangular, Square, and Heavy-Hex Layouts
 
+[![DOI](https://zenodo.org/badge/1339111122.svg)](https://doi.org/10.5281/zenodo.22018883)
+
 This repository contains the code and the resulting data from comparing Reed-Muller Lattice-based circuits (and a variant with CALA-n [1]) with ESOP-based and BDD-based [2] circuits.
 
 The `transpile.ipynb` notebook is used to transpile the circuits and calculate Transpilation Quantum Cost (TQC) [1]. The `maslov_cost.ipynb` was used to calculate Maslov cost for the ESOP-based circuits [3].
