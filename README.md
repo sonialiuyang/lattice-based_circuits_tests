@@ -16,7 +16,7 @@ The benchmark functions tested are in the `benchmarks` folder.
 
 ## Circuits
 The original (before transpilation) version of the Reed-Muller Lattice-based, ESOP-based, and BDD-Based circuits are in the `circuits` folder.
-EXORCISM-4 [6] and the `esop_to_circuit.ipynb` notebook were used to create the ESOP-Based circuits. The BDD-Based circuits for sym6\_63 and sym9\_71 are from [2].
+EXORCISM-4 [6] (the results of which are in the `esop` folder) and the `esop_to_circuit.ipynb` notebook were used to create the ESOP-Based circuits. The BDD-Based circuits for sym6\_63 and sym9\_71 are from [2].
 
 The transpiled circuits are in the `transpiled_circuits` folder. These were generated from inputting the circuits from the `circuits` folder into the `transpile.ipynb` notebook.
 
