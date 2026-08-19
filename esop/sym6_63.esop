@@ -1,5 +1,4 @@
-# EXORCISM-4 output for command line arguments: "-q0 -v0 C:\Users\slyso\Downloads\v3_qiskit_lattices\functions\sym6_63.pla"
-# Minimization performed Tue Aug 18 16:05:20 2026
+# EXORCISM-4 output
 # Initial statistics: Cubes = 18  Literals = 85
 # Final   statistics: Cubes = 13  Literals = 60
 # Input file reading and variable reordering time = 0.00 sec
