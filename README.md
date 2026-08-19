@@ -34,7 +34,7 @@ Automation Conference, 270–275 (2009).
 [3] Maslov, D. & Dueck, G. W. Improved quantum cost for n-bit Toffoli gates. Electron. Lett. 39, 1790–1791, DOI:
 10.1049/el:20031202 (2003).
 
-[4] Ko{\'z}mi{\'n}ski}, K. Benchmarks for layout synthesis –evolution and current status. In Proc. of the 28th ACM/IEEE Design
+[4] Kozminski, K. Benchmarks for layout synthesis –evolution and current status. In Proc. of the 28th ACM/IEEE Design
 Automation Conference, 265–270 (1991).
 
 [5] Wille, R., Große, D., Teuber, L., Dueck, G. W. & Drechsler, R. RevLib: An online resource for reversible functions and
