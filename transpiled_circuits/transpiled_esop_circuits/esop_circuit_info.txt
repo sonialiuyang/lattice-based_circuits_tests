@@ -1,0 +1,111 @@
+# sam_ex1
+Gates: 569
+Depth: 390
+Local SWAPs: 0
+Global SWAPS: 24
+TQC: 983 
+
+# sam_ex2
+Gates: 1110
+Depth: 623
+Local SWAPs: 0
+Global SWAPS: 45
+TQC: 1778 
+
+# sam_ex3
+Gates: 1727
+Depth: 1015
+Local SWAPs: 0
+Global SWAPS: 66
+TQC: 2808 
+
+# sam_ex4
+Gates: 8535
+Depth: 4998
+Local SWAPs: 0
+Global SWAPS: 387
+TQC: 13920 
+
+# sam_ex5
+Gates: 7556
+Depth: 4371
+Local SWAPs: 0
+Global SWAPS: 325
+TQC: 12252 
+
+# rd53f1
+Gates: 1431
+Depth: 906
+Local SWAPs: 0
+Global SWAPS: 57
+TQC: 2394 
+
+# rd53f2
+Gates: 447
+Depth: 274
+Local SWAPs: 0
+Global SWAPS: 17
+TQC: 738 
+
+# rd73f1
+Gates: 988
+Depth: 590
+Local SWAPs: 0
+Global SWAPS: 42
+TQC: 1620 
+
+# rd73f3
+Gates: 10392
+Depth: 6296
+Local SWAPs: 0
+Global SWAPS: 463
+TQC: 17151 
+
+# rd84f1
+Gates: 1340
+Depth: 803
+Local SWAPs: 0
+Global SWAPS: 59
+TQC: 2202 
+
+# rd84f3
+Gates: 1892
+Depth: 736
+Local SWAPs: 0
+Global SWAPS: 95
+TQC: 2723 
+
+# rd84f4
+Gates: 20960
+Depth: 12366
+Local SWAPs: 0
+Global SWAPS: 955
+TQC: 34281 
+
+# sym6_63
+Gates: 7266
+Depth: 4193
+Local SWAPs: 0
+Global SWAPS: 309
+TQC: 11768 
+
+# sym9_71
+Gates: 38556
+Depth: 22887
+Local SWAPs: 0
+Global SWAPS: 1762
+TQC: 63205 
+
+# sym10_207
+Gates: 169897
+Depth: 82581
+Local SWAPs: 0
+Global SWAPS: 8518
+TQC: 260996 
+
+# co14_135
+Gates: 82016
+Depth: 23816
+Local SWAPs: 0
+Global SWAPS: 4533
+TQC: 110365

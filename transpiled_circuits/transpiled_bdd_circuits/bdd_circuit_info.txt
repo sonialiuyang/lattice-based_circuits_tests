@@ -1,0 +1,48 @@
+# rd53f1
+Gates: 481
+Depth: 257
+Local SWAPs: 0
+Global SWAPS: 23
+TQC: 761 
+
+# rd53f2
+Gates: 863
+Depth: 348
+Local SWAPs: 0
+Global SWAPS: 45
+TQC: 1256 
+
+# rd73f1
+Gates: 1858
+Depth: 894
+Local SWAPs: 0
+Global SWAPS: 104
+TQC: 2856 
+
+# rd73f3
+Gates: 1307
+Depth: 501
+Local SWAPs: 0
+Global SWAPS: 68
+TQC: 1876 
+
+# rd84f1
+Gates: 2404
+Depth: 1026
+Local SWAPs: 0
+Global SWAPS: 141
+TQC: 3571
+
+# sym6_63
+Gates: 833
+Depth: 422
+Local SWAPs: 0
+Global SWAPS: 37
+TQC: 1292 
+
+# sym9_71
+Gates: 2115
+Depth: 836
+Local SWAPs: 0
+Global SWAPS: 110
+TQC: 3061
