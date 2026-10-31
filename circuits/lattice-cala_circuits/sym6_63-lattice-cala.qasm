@@ -1,0 +1,46 @@
+OPENQASM 2.0;
+include "qelib1.inc";
+gate swat a, b, c {
+  h b;
+  tdg b;
+  cx a, b;
+  t b;
+  cx c, b;
+  tdg b;
+  cx a, b;
+  t b;
+  h b;
+  swap a, b;
+}
+gate swat1 a, b {
+  cx b, a;
+  cx a, b;
+}
+
+qreg q[12];
+creg c[1];
+
+x q[8];
+x q[10];
+x q[11];
+swat1 q[6], q[7];
+swat q[4], q[5], q[6];
+swap q[7], q[8];
+swat q[5], q[6], q[7];
+swat q[3], q[4], q[5];
+swat1 q[8], q[9];
+swat q[6], q[7], q[8];
+swat q[4], q[5], q[6];
+swat1 q[9], q[10];
+swat q[2], q[3], q[4];
+swat q[7], q[8], q[9];
+swat q[5], q[6], q[7];
+swat q[3], q[4], q[5];
+swat1 q[8], q[9];
+swat q[1], q[2], q[3];
+swat q[6], q[7], q[8];
+swat q[4], q[5], q[6];
+swat q[2], q[3], q[4];
+swat q[0], q[1], q[2];
+
+// @columns [0,0,0,1,2,3,4,5,5,6,7,7,8,8,9,10,10,11,11,12,13,14]
